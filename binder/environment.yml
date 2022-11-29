@@ -1,0 +1,17 @@
+name: hsma5_forecast9a
+channels:
+  - conda-forge
+dependencies:
+  - spyder=4.1.5
+  - jupyterlab=3.0.9
+  - matplotlib=3.3.4
+  - notebook=6.0.3
+  - numpy=1.19.2
+  - pandas=1.2.3
+  - pip=21.0.1
+  - python=3.8.8
+  - scipy=1.6.1
+  - seaborn=0.10.0
+  - statsmodels=0.11.1
+  - pip:
+    - forecast-tools==0.1.6
