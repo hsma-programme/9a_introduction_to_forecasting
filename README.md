@@ -30,9 +30,9 @@ You are provided with a conda environment (see binder/environment.yml) that you 
    * `conda update conda`
    * `conda env create -f binder/environment.yml`
 
-2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma5_forecast`.  You need to activate it.
+2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma5_forecast9a`.  You need to activate it.
 
-   * `conda activate hsma5_forecast`
+   * `conda activate hsma5_forecast9a`
 
 3. To follow the code along lectures and complete the exercises please use Jupyter-Lab.  To run it enter the following command into your anaconda prompt or terminal (making sure you are in the same directory as the files)
 
