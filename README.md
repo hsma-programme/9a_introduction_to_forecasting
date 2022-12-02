@@ -1,11 +1,12 @@
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hsma4/module_9_a/HEAD)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-360+/)
 
-# An introduction to forecasting
-# HSMA5 - 2023
+# HSMA5: An introduction to forecasting
 
-**Welcome to the HSMA forecasting class**.  In this 3 hour class you will be introduced to forecasting applied to operational problems in health and social care.
+**Welcome to the HSMA forecasting repo**.  In the 3 hour class you will be introduced to forecasting applied to operational problems in health and social care.
 
 ## Course structure
 
@@ -48,19 +49,15 @@ If you are experiencing issues with Jupyter-Lab on your personal computer then y
 > Note you require a Google account to use Colab.
 
 ## Code along lectures
-* Code along 1: Loading time series using pandas [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/code_along_lectures/01_pandas_time_series.ipynb)
-* Code along 2: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/code_along_lectures/02_exploring_ts.ipynb)
-* Code along 3: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/code_along_lectures/03_benchmark_forecasts.ipynb)
+* Code along 1: Loading time series using pandas [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma5/9a_introduction_to_forecasting/blob/main/code_along/9a_01_pandas_time_series.ipynb)
+* Code along 2: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma5/9a_introduction_to_forecasting/blob/main/code_along/9a_02_exploring_ts.ipynb) 
+* Code along 3: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma5/9a_introduction_to_forecasting/blob/main/code_along/9a_03_benchmark_forecasts.ipynb)
 
 
 ## Practical Exercises
-* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_1.ipynb)
-* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_2.ipynb)
+* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma5/9a_introduction_to_forecasting/blob/main/exercises/Practical_1.ipynb)
+* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma5/9a_introduction_to_forecasting/blob/main/exercises/Practical_2.ipynb)
 
 ## Solutions to Exercises
 
-> These notebooks provide example solutions to the problems set.  Feel free to work through them.  We all learn in different ways. It is up to you how you choose to learn either by having a go at the exercises or by working through the code provided.  Remember you can always try the code with your own data!  Good luck.
-
-* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_1_SOLUTIONS.ipynb)
-* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_2_SOLUTIONS.ipynb)
-
+> Solutions to practical exercises will be released following the live lecture, scheduled for 21 February 2023.
