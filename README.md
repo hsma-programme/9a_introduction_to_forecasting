@@ -1,5 +1,3 @@
-
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hsma5/9a_introduction_to_forecasting/HEAD)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-360+/)
@@ -10,32 +8,32 @@
 
 ## Course structure
 
-1. A lecture introducting you to the theory and practice of forecasting
-2. A series of short code-along lectures in Jupyter notebooks
-3. Two 20 minute practical exercises to give you experience of visualising time series and producing simple forecasts. 
+1. Lecture introducing you to the theory and practice of forecasting;
+2. A series of short, code-along lectures in Jupyter notebooks (to go through with instructor); and
+3. Two 20 minute practical exercises to give you experience of visualising time series data and producing simple forecasts. 
 
 ## Learning outcomes
 
-**By the end of the class you will have**
+**By the end of the class you will have...**
 
-* New tools to appraise and question forecasting studies
-* Hands on experience of manipulating time series in python
+* New tools to appraise and question forecasting studies;
+* Hands on experience of manipulating time series in python; and
 * Hands on experience of producing simple benchmark forecasts using the [`forecast-tools`](https://pypi.org/project/forecast-tools/) python package.
 
 ## Setup for the course
 
-You are provided with a conda environment (see binder/environment.yml) that you can use to install the dependencies.  To install follow these instructions.
+You are provided with a conda environment (see `binder/environment.yml`) that you can use to create and install the necessary dependencies.  To install follow these instructions.
 
 1. Open an anaconda prompt (or terminal on Mac and Linux) in the same directory as the course files.  Run the following commands
 
    * `conda update conda`
    * `conda env create -f binder/environment.yml`
 
-2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma5_forecast9a`.  You need to activate it.
+2. Conda will resolve the environment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma5_forecast9a`.  You then need to activate it using the command below.
 
    * `conda activate hsma5_forecast9a`
 
-3. To follow the code along lectures and complete the exercises please use Jupyter-Lab.  To run it enter the following command into your anaconda prompt or terminal (making sure you are in the same directory as the files)
+3. To follow the code along lectures and complete the exercises please use Jupyter-Lab.  To run it enter the following command into your anaconda prompt or terminal (making sure you are in the same directory as the files).
 
    * `jupyter-lab`
 
@@ -44,7 +42,7 @@ Jupyter will then open.
 
 # Launch Notebooks in Google Colab
 
-If you are experiencing issues with Jupyter-Lab on your personal computer then you can also run the notebooks in Google Colab.  Use the links below to launch them
+If you are experiencing issues with Jupyter-Lab on your personal computer then you can also run the notebooks in Google Colab.  Use the links below to launch them:
 
 > Note you require a Google account to use Colab.
 
